@@ -50,5 +50,3 @@ export const movies = [
     director: "Martin Scorsese",
   },
 ];
-
-// console.log(movies);
